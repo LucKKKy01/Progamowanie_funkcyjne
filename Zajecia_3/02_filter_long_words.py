@@ -1,4 +1,3 @@
-
 words = ['system', 'komputer', 'jablko','korek','laptop','krzeslo','kot']
 
 def filter_long_words(words):
